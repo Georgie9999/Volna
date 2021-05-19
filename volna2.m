@@ -22,7 +22,7 @@ U(m,:) = UB;
 U_pr = U;
 U_array = zeros(1);
 
-f(3, 70:75) = 1000*sin(k);
+%f(3, 70:75) = 1000*sin(k);
 
 
 dt_array = zeros(1);
